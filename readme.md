@@ -1,2 +1,2 @@
-# Tech Store
-## Development
+# Designzcy
+## Smart Web Design Agency

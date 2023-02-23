@@ -11,8 +11,8 @@
 	align-items: $ai;
 }
 
-$maxWidth: 1430;
-$maxWidthContainer: 1023.98;
+$maxWidth: 1450;
+$maxWidthContainer: 1200;
 
 @mixin adaptive-value($property, $startSize, $minSize, $type) {
 	$addSize: $startSize - $minSize;
